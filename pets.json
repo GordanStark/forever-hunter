@@ -1,0 +1,622 @@
+[
+{
+"slug": "bat",
+"name": "Bat",
+"icon": "ability_hunter_pet_bat",
+"diet": [
+"fungus",
+"fruit"
+],
+"abilities": [
+{
+"i": "ability_racial_cannibalize",
+"n": "Bite",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Bite the enemy, causing 81 to 99 damage."
+},
+{
+"i": "ability_vehicle_sonicshockwave",
+"n": "Sonic Blast",
+"sum": "5 ranks \u00b7 levels 12\u201360",
+"top": "Emits a piercing shriek, inflicting 77 to 91 Nature damage and increasing the casting time of all spells by 60% for 30 sec."
+},
+{
+"i": "spell_shadow_burningspirit",
+"n": "Dive",
+"sum": "2 ranks \u00b7 levels 40\u201350",
+"top": "Increases movement speed by 80% for 15 sec."
+}
+]
+},
+{
+"slug": "bear",
+"name": "Bear",
+"icon": "ability_hunter_pet_bear",
+"diet": [
+"meat",
+"fish",
+"cheese",
+"bread",
+"fungus",
+"fruit"
+],
+"abilities": [
+{
+"i": "ability_racial_cannibalize",
+"n": "Bite",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Bite the enemy, causing 81 to 99 damage."
+},
+{
+"i": "ability_druid_rake",
+"n": "Claw",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Claw the enemy, causing 43 to 59 damage."
+},
+{
+"i": "inv_misc_monsterclaw_03",
+"n": "Swipe",
+"sum": "5 ranks \u00b7 levels 12\u201360",
+"top": "Swipe 3 nearby enemies, inflicting 20 to 22 damage."
+},
+{
+"i": "ability_druid_dash",
+"n": "Dash",
+"sum": "3 ranks \u00b7 levels 30\u201350",
+"top": "Increases movement speed by 80% for 15 sec."
+}
+]
+},
+{
+"slug": "bird-of-prey",
+"name": "Bird of Prey",
+"icon": "ability_hunter_pet_owl",
+"diet": [
+"meat"
+],
+"abilities": [
+{
+"i": "ability_druid_rake",
+"n": "Claw",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Claw the enemy, causing 43 to 59 damage."
+},
+{
+"i": "spell_nature_natureswrath",
+"n": "Mine!",
+"sum": "5 ranks \u00b7 levels 10\u201350",
+"top": "Grabs an enemy's weapon with its talons, causing 41 to 47 damage and disarming them for 4 sec."
+},
+{
+"i": "spell_shadow_burningspirit",
+"n": "Dive",
+"sum": "3 ranks \u00b7 levels 30\u201350",
+"top": "Increases movement speed by 80% for 15 sec."
+}
+]
+},
+{
+"slug": "boar",
+"name": "Boar",
+"icon": "ability_hunter_pet_boar",
+"diet": [
+"meat",
+"fish",
+"cheese",
+"bread",
+"fungus",
+"fruit"
+],
+"abilities": [
+{
+"i": "ability_racial_cannibalize",
+"n": "Bite",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Bite the enemy, causing 81 to 99 damage."
+},
+{
+"i": "ability_hunter_pet_boar",
+"n": "Charge",
+"sum": "6 ranks \u00b7 levels 1\u201360",
+"top": "Charges an enemy, immobilizes it for 1 sec, and adds 490 melee attack power to the boar's next attack."
+},
+{
+"i": "ability_druid_dash",
+"n": "Dash",
+"sum": "3 ranks \u00b7 levels 30\u201350",
+"top": "Increases movement speed by 80% for 15 sec."
+}
+]
+},
+{
+"slug": "carrion-bird",
+"name": "Carrion Bird",
+"icon": "ability_hunter_pet_vulture",
+"diet": [
+"meat",
+"fish"
+],
+"abilities": [
+{
+"i": "ability_racial_cannibalize",
+"n": "Bite",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Bite the enemy, causing 81 to 99 damage."
+},
+{
+"i": "ability_druid_rake",
+"n": "Claw",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Claw the enemy, causing 43 to 59 damage."
+},
+{
+"i": "ability_hunter_pet_vulture",
+"n": "Demoralizing Screech",
+"sum": "4 ranks \u00b7 levels 8\u201356",
+"top": "Blasts a single enemy for 24 to 42 damage and lowers the melee attack power of all enemies in melee range by 198 for 30 sec."
+},
+{
+"i": "spell_shadow_burningspirit",
+"n": "Dive",
+"sum": "3 ranks \u00b7 levels 30\u201350",
+"top": "Increases movement speed by 80% for 15 sec."
+}
+]
+},
+{
+"slug": "cat",
+"name": "Cat",
+"icon": "ability_hunter_pet_cat",
+"diet": [
+"meat",
+"fish"
+],
+"abilities": [
+{
+"i": "ability_racial_cannibalize",
+"n": "Bite",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Bite the enemy, causing 81 to 99 damage."
+},
+{
+"i": "ability_druid_rake",
+"n": "Claw",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Claw the enemy, causing 43 to 59 damage."
+},
+{
+"i": "ability_druid_dash",
+"n": "Dash",
+"sum": "3 ranks \u00b7 levels 30\u201350",
+"top": "Increases movement speed by 80% for 15 sec."
+},
+{
+"i": "ability_druid_supriseattack",
+"n": "Prowl",
+"sum": "3 ranks \u00b7 levels 30\u201350",
+"top": "Puts your pet in stealth mode, but slows its movement speed by 40%. The first attack from stealth receives a 50% bonus to damage. Lasts until cancelled."
+}
+]
+},
+{
+"slug": "crab",
+"name": "Crab",
+"icon": "ability_hunter_pet_crab",
+"diet": [
+"fish",
+"bread",
+"fungus",
+"fruit"
+],
+"abilities": [
+{
+"i": "ability_druid_rake",
+"n": "Claw",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Claw the enemy, causing 43 to 59 damage."
+},
+{
+"i": "ability_hunter_pet_crab",
+"n": "Pinch",
+"sum": "5 ranks \u00b7 levels 12\u201360",
+"top": "Pinches an enemy's legs for 88 to 102 damage and reduces movement speed by 50% for 9 sec."
+},
+{
+"i": "ability_druid_dash",
+"n": "Dash",
+"sum": "3 ranks \u00b7 levels 30\u201350",
+"top": "Increases movement speed by 80% for 15 sec."
+}
+]
+},
+{
+"slug": "crocolisk",
+"name": "Crocolisk",
+"icon": "ability_hunter_pet_crocolisk",
+"diet": [
+"meat",
+"fish"
+],
+"abilities": [
+{
+"i": "ability_racial_cannibalize",
+"n": "Bite",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Bite the enemy, causing 81 to 99 damage."
+},
+{
+"i": "ability_hunter_pet_crocolisk",
+"n": "Dismember",
+"sum": "5 ranks \u00b7 levels 12\u201360",
+"top": "Viciously bites enemy appendages for 50 to 58 damage and reduces the effectiveness of any healing by 50% for 10 sec."
+},
+{
+"i": "ability_druid_dash",
+"n": "Dash",
+"sum": "3 ranks \u00b7 levels 30\u201350",
+"top": "Increases movement speed by 80% for 15 sec."
+}
+]
+},
+{
+"slug": "fox",
+"name": "Fox",
+"icon": "ability_hunter_aspectofthefox",
+"diet": [
+"meat"
+],
+"abilities": [
+{
+"i": "ability_racial_cannibalize",
+"n": "Bite",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Bite the enemy, causing 81 to 99 damage."
+},
+{
+"i": "ability_hunter_aspectofthefox",
+"n": "Trickster's Dance",
+"sum": "1 rank \u00b7 level 20",
+"top": "Increases your pet's chance to Dodge by 50% and decreases the time between your pet's attacks by 30% for 12 sec."
+},
+{
+"i": "ability_druid_dash",
+"n": "Dash",
+"sum": "3 ranks \u00b7 levels 30\u201350",
+"top": "Increases movement speed by 80% for 15 sec."
+}
+]
+},
+{
+"slug": "gorilla",
+"name": "Gorilla",
+"icon": "ability_hunter_pet_gorilla",
+"diet": [
+"fungus",
+"fruit"
+],
+"abilities": [
+{
+"i": "ability_racial_cannibalize",
+"n": "Bite",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Bite the enemy, causing 81 to 99 damage."
+},
+{
+"i": "ability_druid_dash",
+"n": "Dash",
+"sum": "3 ranks \u00b7 levels 30\u201350",
+"top": "Increases movement speed by 80% for 15 sec."
+},
+{
+"i": "ability_hunter_pet_gorilla",
+"n": "Thunderstomp",
+"sum": "4 ranks \u00b7 levels 30\u201360",
+"top": "Shakes the ground with thundering force, doing 122 to 142 Nature damage to all enemies within 8 yds."
+}
+]
+},
+{
+"slug": "hyena",
+"name": "Hyena",
+"icon": "ability_hunter_pet_hyena",
+"diet": [
+"meat",
+"fruit"
+],
+"abilities": [
+{
+"i": "ability_racial_cannibalize",
+"n": "Bite",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Bite the enemy, causing 81 to 99 damage."
+},
+{
+"i": "ability_hunter_pet_hyena",
+"n": "Tendon Rip",
+"sum": "5 ranks \u00b7 levels 12\u201360",
+"top": "Tears at an enemy's legs for 60 damage over 9 sec and reduces movement speed by 50% for 9 sec."
+},
+{
+"i": "ability_druid_dash",
+"n": "Dash",
+"sum": "3 ranks \u00b7 levels 30\u201350",
+"top": "Increases movement speed by 80% for 15 sec."
+}
+]
+},
+{
+"slug": "raptor",
+"name": "Raptor",
+"icon": "ability_hunter_pet_raptor",
+"diet": [
+"meat"
+],
+"abilities": [
+{
+"i": "ability_racial_cannibalize",
+"n": "Bite",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Bite the enemy, causing 81 to 99 damage."
+},
+{
+"i": "ability_druid_rake",
+"n": "Claw",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Claw the enemy, causing 43 to 59 damage."
+},
+{
+"i": "ability_hunter_pet_raptor",
+"n": "Savage Rend",
+"sum": "5 ranks \u00b7 levels 12\u201360",
+"top": "Slash an enemy with razor talons, causing the target to Bleed for 156 damage over 18 sec."
+},
+{
+"i": "ability_druid_dash",
+"n": "Dash",
+"sum": "3 ranks \u00b7 levels 30\u201350",
+"top": "Increases movement speed by 80% for 15 sec."
+}
+]
+},
+{
+"slug": "scorpid",
+"name": "Scorpid",
+"icon": "ability_hunter_pet_scorpid",
+"diet": [
+"meat"
+],
+"abilities": [
+{
+"i": "ability_druid_rake",
+"n": "Claw",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Claw the enemy, causing 43 to 59 damage."
+},
+{
+"i": "ability_poisonsting",
+"n": "Scorpid Poison",
+"sum": "4 ranks \u00b7 levels 8\u201356",
+"top": "Inflicts 25 Nature damage over 10 sec. Effect can stack up to 5 times on a single target."
+},
+{
+"i": "ability_druid_dash",
+"n": "Dash",
+"sum": "3 ranks \u00b7 levels 30\u201350",
+"top": "Increases movement speed by 80% for 15 sec."
+}
+]
+},
+{
+"slug": "spider",
+"name": "Spider",
+"icon": "ability_hunter_pet_spider",
+"diet": [
+"meat"
+],
+"abilities": [
+{
+"i": "ability_racial_cannibalize",
+"n": "Bite",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Bite the enemy, causing 81 to 99 damage."
+},
+{
+"i": "spell_nature_web",
+"n": "Web",
+"sum": "5 ranks \u00b7 levels 12\u201360",
+"top": "Entangles an enemy in a corrosive web, immobilizing them and dealing 52 Nature damage over 4 sec."
+},
+{
+"i": "ability_druid_dash",
+"n": "Dash",
+"sum": "3 ranks \u00b7 levels 30\u201350",
+"top": "Increases movement speed by 80% for 15 sec."
+}
+]
+},
+{
+"slug": "tallstrider",
+"name": "Tallstrider",
+"icon": "ability_hunter_pet_tallstrider",
+"diet": [
+"cheese",
+"fungus",
+"fruit"
+],
+"abilities": [
+{
+"i": "ability_racial_cannibalize",
+"n": "Bite",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Bite the enemy, causing 81 to 99 damage."
+},
+{
+"i": "spell_nature_sleep",
+"n": "Dust Cloud",
+"sum": "5 ranks \u00b7 levels 12\u201360",
+"top": "Your tallstrider kicks up an abrasive cloud of dust, reducing the target's Armor by 505 for 30 sec."
+},
+{
+"i": "ability_druid_dash",
+"n": "Dash",
+"sum": "3 ranks \u00b7 levels 30\u201350",
+"top": "Increases movement speed by 80% for 15 sec."
+}
+]
+},
+{
+"slug": "turtle",
+"name": "Turtle",
+"icon": "ability_hunter_pet_turtle",
+"diet": [
+"fish",
+"fungus",
+"fruit",
+"raw-fish"
+],
+"abilities": [
+{
+"i": "ability_racial_cannibalize",
+"n": "Bite",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Bite the enemy, causing 81 to 99 damage."
+},
+{
+"i": "ability_hunter_pet_turtle",
+"n": "Shell Shield",
+"sum": "1 rank \u00b7 level 20",
+"top": "Reduces all damage your pet takes by 50% and increases the time between your pet's attacks by 60%, but deals more damage with each attack. Lasts 12 sec."
+},
+{
+"i": "ability_druid_dash",
+"n": "Dash",
+"sum": "3 ranks \u00b7 levels 30\u201350",
+"top": "Increases movement speed by 80% for 15 sec."
+}
+]
+},
+{
+"slug": "wind-serpent",
+"name": "Wind Serpent",
+"icon": "ability_hunter_pet_windserpent",
+"diet": [
+"fish",
+"cheese",
+"bread"
+],
+"abilities": [
+{
+"i": "ability_racial_cannibalize",
+"n": "Bite",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Bite the enemy, causing 81 to 99 damage."
+},
+{
+"i": "spell_nature_lightning",
+"n": "Lightning Breath",
+"sum": "6 ranks \u00b7 levels 1\u201360",
+"top": "Breathes lightning, instantly dealing 86 to 98 Nature damage to a single target."
+},
+{
+"i": "spell_shadow_burningspirit",
+"n": "Dive",
+"sum": "3 ranks \u00b7 levels 30\u201350",
+"top": "Increases movement speed by 80% for 15 sec."
+}
+]
+},
+{
+"slug": "wolf",
+"name": "Wolf",
+"icon": "ability_hunter_pet_wolf",
+"diet": [
+"meat"
+],
+"abilities": [
+{
+"i": "ability_racial_cannibalize",
+"n": "Bite",
+"sum": "8 ranks \u00b7 levels 1\u201356",
+"top": "Bite the enemy, causing 81 to 99 damage."
+},
+{
+"i": "ability_hunter_pet_wolf",
+"n": "Furious Howl",
+"sum": "4 ranks \u00b7 levels 10\u201356",
+"top": "The wolf howls, increasing the melee attack power of all party members within 15 yards by 82. Lasts 1 min."
+},
+{
+"i": "ability_druid_dash",
+"n": "Dash",
+"sum": "3 ranks \u00b7 levels 30\u201350",
+"top": "Increases movement speed by 80% for 15 sec."
+},
+{
+"i": "ability_physical_taunt",
+"n": "Growl",
+"sum": "7 ranks \u00b7 levels 1\u201360",
+"top": "Taunt the target, increasing the likelihood the creature will focus attacks on you."
+},
+{
+"i": "ability_druid_cower",
+"n": "Cower",
+"sum": "6 ranks \u00b7 levels 5\u201355",
+"top": "Cower, causing no damage but lowering your threat, making the enemy less likely to attack you."
+},
+{
+"i": "ability_eyeoftheowl",
+"n": "Faster Attack",
+"sum": "7 variants",
+"top": "Increases attack speed by 17%."
+},
+{
+"i": "spell_nature_unyeildingstamina",
+"n": "Great Stamina",
+"sum": "10 ranks \u00b7 levels 1\u201360",
+"top": "Stamina increased by 40."
+},
+{
+"i": "spell_nature_spiritarmor",
+"n": "Natural Armor",
+"sum": "10 ranks \u00b7 levels 1\u201360",
+"top": "Armor increased by 1000."
+},
+{
+"i": "ability_eyeoftheowl",
+"n": "Slower Attack",
+"sum": "2 variants",
+"top": "Decreases attack speed by 20%."
+},
+{
+"i": "spell_nature_starfall",
+"n": "Arcane Resistance",
+"sum": "4 ranks \u00b7 levels 20\u201350",
+"top": "Increases Arcane resistance by 120."
+},
+{
+"i": "spell_fire_firearmor",
+"n": "Fire Resistance",
+"sum": "4 ranks \u00b7 levels 20\u201350",
+"top": "Increases Fire resistance by 120."
+},
+{
+"i": "spell_frost_frostward",
+"n": "Frost Resistance",
+"sum": "4 ranks \u00b7 levels 20\u201350",
+"top": "Increases Frost resistance by 120."
+},
+{
+"i": "spell_nature_resistnature",
+"n": "Nature Resistance",
+"sum": "4 ranks \u00b7 levels 20\u201350",
+"top": "Increases Nature resistance by 120."
+},
+{
+"i": "spell_shadow_antishadow",
+"n": "Shadow Resistance",
+"sum": "4 ranks \u00b7 levels 20\u201340",
+"top": "Increases Shadow resistance by 120."
+}
+]
+}
+]
