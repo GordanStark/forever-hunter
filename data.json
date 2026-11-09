@@ -1,5 +1,0 @@
-{"example":true,"name":"Hank Quill","level":12,"race":"Dwarf","class":"Hunter","gold":{"g":1,"s":42,"c":8},"lastSynced":"EXAMPLE – never synced",
-"gear":[{"slot":"Ranged","item":"Example Bow","ilvl":12},{"slot":"Chest","item":"Example Leather Tunic","ilvl":10},{"slot":"Legs","item":"Example Leather Pants","ilvl":11}],
-"bags":[{"item":"Rough Arrow","count":400},{"item":"Light Leather","count":12},{"item":"Tough Jerky","count":10}],
-"professions":[{"name":"Skinning","skill":70,"max":75},{"name":"Leatherworking","skill":52,"max":75},{"name":"Cooking","skill":30,"max":75},{"name":"First Aid","skill":40,"max":75}],
-"mounts":[]}
