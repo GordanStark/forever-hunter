@@ -2005,5 +2005,10 @@ window.ICON_CLASS = {"Auto Shot": "ic0", "Raptor Strike": "ic1", "Track Beasts":
 })();
 
 </script>
+<script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('./sw.js').catch(function(){});
+}
+</script>
 </body>
 </html>
